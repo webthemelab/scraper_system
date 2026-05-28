@@ -1,0 +1,20 @@
+# Core
+httpx[http2]
+beautifulsoup4
+playwright
+asyncpg
+redis[hiredis]
+pydantic>=2.0
+python-dotenv
+loguru
+
+# Proxy / HTTP utilities
+urllib3
+certifi
+
+# Exports
+lxml
+
+# Dev / testing
+pytest
+pytest-asyncio
